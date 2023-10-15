@@ -1,0 +1,205 @@
+[
+  {
+    "id": 1,
+    "question": "Berikut ini adalah command artisan laravel untuk membuat Controller adalah?",
+    "options": [
+      { "answer": "php artisan migrate", "isCorrect": false },
+      { "answer": "php artisan make:migration create_nama_table", "isCorrect": false },
+      { "answer": "php artisan make:model namaModel", "isCorrect": false },
+      { "answer": "php artisan make:controller NamaController", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Dalam kerangka MVC, huruf 'C' adalah singkatan dari?",
+    "options": [
+      { "answer": "Cookie", "isCorrect": false },
+      { "answer": "Cimol", "isCorrect": false },
+      { "answer": "Controller", "isCorrect": true },
+      { "answer": "Control", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Dalam framework MVC, huruf 'V' kepanjangan dari View.",
+    "options": [
+      { "answer": "Benar", "isCorrect": true },
+      { "answer": "Salah", "isCorrect": false },
+      { "answer": "Bisa Benar Bisa Salah", "isCorrect": false },
+      { "answer": "Tidak Tau Akunya", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Manakah dari berikut ini yang benar tentang Laravel?",
+    "options": [
+      { "answer": "Laravel adalah framework PHP open source", "isCorrect": false },
+      { "answer": "Laravel tangguh", "isCorrect": false },
+      { "answer": "Laravel mudah dipahami", "isCorrect": false },
+      { "answer": "Semua pilihan benar", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Kepanjangan dari HTML adalah",
+    "options": [
+      { "answer": "HyperText Markup Language", "isCorrect": true },
+      { "answer": "Hyperlink Mobile Language", "isCorrect": false },
+      { "answer": "Hyper This Mobile Lose", "isCorrect": false },
+      { "answer": "HyperText Markup Link", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "File HTML harus berekstensi",
+    "options": [
+      { "answer": ".html", "isCorrect": true },
+      { "answer": ".php", "isCorrect": false },
+      { "answer": ".you", "isCorrect": false },
+      { "answer": ".vue", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Setiap variabel di PHP diawali dengan simbol?",
+    "options": [
+      { "answer": "%", "isCorrect": false },
+      { "answer": "!", "isCorrect": false },
+      { "answer": "&", "isCorrect": false },
+      { "answer": "$", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "PHP Merupakan singkatan dari?",
+    "options": [
+      { "answer": "Private Home Page", "isCorrect": false },
+      { "answer": "Hypertext Processor", "isCorrect": true },
+      { "answer": "Pemberi Harapan Palsu", "isCorrect": false },
+      { "answer": "Program Hypertext Processor", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Kode PHP diawali dan di akhiri dengan tanda?",
+    "options": [
+      { "answer": "<?php … ?>", "isCorrect": true },
+      { "answer": "<?php … </?php>", "isCorrect": false },
+      { "answer": "<script> … </script>", "isCorrect": false },
+      {
+        "answer": "<php … /?>",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Sintak untuk mencetak output ‘Hello World’ di PHP?",
+    "options": [
+      { "answer": "echo “Hello World”;", "isCorrect": true },
+      { "answer": "System.out.print(“Hello World”);", "isCorrect": false },
+      { "answer": "document.write (“Hello World”)", "isCorrect": false },
+      { "answer": "cout<<“Hello World”;", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Dibawah ini merupakan struktur perulangan di PHP, kecuali?",
+    "options": [
+      { "answer": "for", "isCorrect": false },
+      { "answer": "foreach", "isCorrect": false },
+      { "answer": "switch", "isCorrect": true },
+      { "answer": "while", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Sintak yang benar ntuk membuat fungsi (function) di PHP adalah?",
+    "options": [
+      { "answer": "new My_Function()", "isCorrect": false },
+      { "answer": "create My_Function()", "isCorrect": false },
+      { "answer": "function My_Function()", "isCorrect": true },
+      { "answer": "select My_Fungction()", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Indeks array di PHP dimulai dari?",
+    "options": [
+      { "answer": "4", "isCorrect": false },
+      { "answer": "100", "isCorrect": false },
+      { "answer": "6", "isCorrect": false },
+      { "answer": "0", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Untuk membuat angka acak di PHP menggunakan fungsi?",
+    "options": [
+      { "answer": "rand()", "isCorrect": true },
+      { "answer": "acak()", "isCorrect": false },
+      { "answer": "ceil()", "isCorrect": false },
+      { "answer": "trim()", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Folder 'Controller' dalam aplikasi berbasis framework Laravel dapat ditemukan di?",
+    "options": [
+      { "answer": "app/Console", "isCorrect": false },
+      { "answer": "config/", "isCorrect": false },
+      { "answer": "app/Http", "isCorrect": true },
+      { "answer": "resources/views", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Perintah Artisan untuk menjalankan laravel adalah",
+    "options": [
+      { "answer": "php artisan server", "isCorrect": false },
+      { "answer": "php artisan serve", "isCorrect": true },
+      { "answer": "php artisan generate", "isCorrect": false },
+      { "answer": "php artisan serves", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Untuk setting alamat URL yang diinginkan dalam framework Laravel dilakukan dalam folder?",
+    "options": [
+      { "answer": "routes", "isCorrect": true },
+      { "answer": "database", "isCorrect": false },
+      { "answer": "migration", "isCorrect": false },
+      { "answer": "resources", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Kepanjangan MVC adalah",
+    "options": [
+      { "answer": "Model View Controller", "isCorrect": true },
+      { "answer": "Modal Vie Control", "isCorrect": false },
+      { "answer": "Mood View Console", "isCorrect": false },
+      { "answer": "Model View Console", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Perintah artisan untuk membuat model adalah?",
+    "options": [
+      { "answer": "php artisan make:migration nama_model", "isCorrect": false },
+      { "answer": "php artisan make:model nama_model", "isCorrect": true },
+      { "answer": "php artisan make:controller nama_model", "isCorrect": false },
+      { "answer": "php artisan make:route nama_model", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Perintah artisan untuk membuat validation/request adalah?",
+    "options": [
+      { "answer": "php artisan make:migration namaRequest", "isCorrect": false },
+      { "answer": "php artisan make:requests namaRequest", "isCorrect": false },
+      { "answer": "php artisan make:controller namaRequest", "isCorrect": false },
+      { "answer": "php artisan make:request namaRequest", "isCorrect": true }
+    ]
+  }
+]
