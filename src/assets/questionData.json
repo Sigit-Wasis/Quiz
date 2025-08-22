@@ -21,182 +21,282 @@
   },
   {
     "id": 3,
-    "question": "Pernyataan kondisi dalam PHP dituliskan dengan?",
+    "question": "Tipe data manakah yang digunakan untuk menyimpan nilai true/false di PHP?",
     "options": [
-      { "answer": "if", "isCorrect": true },
-      { "answer": "when", "isCorrect": false },
-      { "answer": "check", "isCorrect": false },
-      { "answer": "switcher", "isCorrect": false }
+      { "answer": "Integer", "isCorrect": false },
+      { "answer": "String", "isCorrect": false },
+      { "answer": "Boolean", "isCorrect": true },
+      { "answer": "Float", "isCorrect": false }
     ]
   },
   {
     "id": 4,
-    "question": "Struktur pengkondisian `if` diakhiri dengan?",
+    "question": "Struktur data apakah yang menggunakan prinsip FIFO (First In, First Out)?",
     "options": [
-      { "answer": "endif;", "isCorrect": true },
-      { "answer": "end;", "isCorrect": false },
-      { "answer": "stop;", "isCorrect": false },
-      { "answer": "done;", "isCorrect": false }
+      { "answer": "Stack", "isCorrect": false },
+      { "answer": "Queue", "isCorrect": true },
+      { "answer": "Array", "isCorrect": false },
+      { "answer": "Tree", "isCorrect": false }
     ]
   },
   {
     "id": 5,
-    "question": "Tag HTML untuk membuat paragraf adalah?",
+    "question": "Tag HTML manakah yang digunakan untuk membuat hyperlink?",
     "options": [
-      { "answer": "<paragraph>", "isCorrect": false },
-      { "answer": "<p>", "isCorrect": true },
-      { "answer": "<text>", "isCorrect": false },
+      { "answer": "<p>", "isCorrect": false },
+      { "answer": "<a>", "isCorrect": true },
+      { "answer": "<link>", "isCorrect": false },
       { "answer": "<h1>", "isCorrect": false }
     ]
   },
   {
     "id": 6,
-    "question": "Tag HTML untuk membuat tautan (link) adalah?",
+    "question": "Properti CSS mana yang digunakan untuk mengubah warna teks?",
     "options": [
-      { "answer": "<a>", "isCorrect": true },
-      { "answer": "<link>", "isCorrect": false },
-      { "answer": "<href>", "isCorrect": false },
-      { "answer": "<url>", "isCorrect": false }
+      { "answer": "background-color", "isCorrect": false },
+      { "answer": "text-color", "isCorrect": false },
+      { "answer": "color", "isCorrect": true },
+      { "answer": "font-style", "isCorrect": false }
     ]
   },
   {
     "id": 7,
-    "question": "Bagaimana cara menyisipkan CSS di dalam HTML?",
+    "question": "Tipe data apakah yang digunakan untuk menyimpan angka pecahan di PHP?",
     "options": [
-      { "answer": "Menggunakan tag <style>", "isCorrect": true },
-      { "answer": "Menggunakan tag <css>", "isCorrect": false },
-      { "answer": "Menggunakan tag <script>", "isCorrect": false },
-      { "answer": "Menggunakan tag <design>", "isCorrect": false }
+      { "answer": "String", "isCorrect": false },
+      { "answer": "Integer", "isCorrect": false },
+      { "answer": "Float", "isCorrect": true },
+      { "answer": "Boolean", "isCorrect": false }
     ]
   },
   {
     "id": 8,
-    "question": "Untuk membuat huruf tebal di HTML digunakan tag?",
+    "question": "Struktur data yang terdiri dari simpul (node) dan cabang (edge) disebut?",
     "options": [
-      { "answer": "<bold>", "isCorrect": false },
-      { "answer": "<b>", "isCorrect": true },
-      { "answer": "<stronger>", "isCorrect": false },
-      { "answer": "<big>", "isCorrect": false }
+      { "answer": "Array", "isCorrect": false },
+      { "answer": "Graph", "isCorrect": true },
+      { "answer": "Stack", "isCorrect": false },
+      { "answer": "Queue", "isCorrect": false }
     ]
   },
   {
     "id": 9,
-    "question": "Dalam CSS, properti untuk mengubah warna latar belakang adalah?",
+    "question": "Tag HTML untuk menampilkan gambar adalah?",
     "options": [
-      { "answer": "background-color", "isCorrect": true },
-      { "answer": "bg-color", "isCorrect": false },
-      { "answer": "color-background", "isCorrect": false },
-      { "answer": "backgroundStyle", "isCorrect": false }
+      { "answer": "<image>", "isCorrect": false },
+      { "answer": "<img>", "isCorrect": true },
+      { "answer": "<picture>", "isCorrect": false },
+      { "answer": "<src>", "isCorrect": false }
     ]
   },
   {
     "id": 10,
-    "question": "Tipe data yang digunakan untuk menyimpan teks di PHP adalah?",
+    "question": "Operator manakah yang digunakan untuk membandingkan kesamaan nilai sekaligus tipe data di PHP?",
     "options": [
-      { "answer": "int", "isCorrect": false },
-      { "answer": "bool", "isCorrect": false },
-      { "answer": "string", "isCorrect": true },
-      { "answer": "char", "isCorrect": false }
+      { "answer": "==", "isCorrect": false },
+      { "answer": "===", "isCorrect": true },
+      { "answer": "=", "isCorrect": false },
+      { "answer": "!=", "isCorrect": false }
     ]
   },
   {
     "id": 11,
-    "question": "Fungsi untuk mencetak isi variabel di PHP adalah?",
+    "question": "Properti CSS untuk mengatur jarak antar huruf adalah?",
     "options": [
-      { "answer": "print()", "isCorrect": false },
-      { "answer": "echo", "isCorrect": true },
-      { "answer": "console.log()", "isCorrect": false },
-      { "answer": "write()", "isCorrect": false }
+      { "answer": "letter-spacing", "isCorrect": true },
+      { "answer": "line-height", "isCorrect": false },
+      { "answer": "word-spacing", "isCorrect": false },
+      { "answer": "text-indent", "isCorrect": false }
     ]
   },
   {
     "id": 12,
-    "question": "Berapa hasil dari operasi berikut di PHP: 5 + 3 * 2?",
+    "question": "Tipe data manakah yang digunakan untuk menyimpan kumpulan karakter di PHP?",
     "options": [
-      { "answer": "16", "isCorrect": false },
-      { "answer": "11", "isCorrect": true },
-      { "answer": "13", "isCorrect": false },
-      { "answer": "10", "isCorrect": false }
+      { "answer": "Integer", "isCorrect": false },
+      { "answer": "Float", "isCorrect": false },
+      { "answer": "String", "isCorrect": true },
+      { "answer": "Boolean", "isCorrect": false }
     ]
   },
   {
     "id": 13,
-    "question": "Untuk menampilkan teks ke layar menggunakan JavaScript digunakan perintah?",
+    "question": "Struktur data berbentuk hierarki dengan akar (root) dan cabang disebut?",
     "options": [
-      { "answer": "document.write()", "isCorrect": true },
-      { "answer": "print()", "isCorrect": false },
-      { "answer": "echo()", "isCorrect": false },
-      { "answer": "show()", "isCorrect": false }
+      { "answer": "Graph", "isCorrect": false },
+      { "answer": "Tree", "isCorrect": true },
+      { "answer": "Queue", "isCorrect": false },
+      { "answer": "Stack", "isCorrect": false }
     ]
   },
   {
     "id": 14,
-    "question": "Properti CSS untuk mengubah ukuran teks adalah?",
+    "question": "Tag HTML manakah yang digunakan untuk membuat tabel?",
     "options": [
-      { "answer": "text-size", "isCorrect": false },
-      { "answer": "font-size", "isCorrect": true },
-      { "answer": "size-font", "isCorrect": false },
-      { "answer": "fontStyle", "isCorrect": false }
+      { "answer": "<table>", "isCorrect": true },
+      { "answer": "<tr>", "isCorrect": false },
+      { "answer": "<td>", "isCorrect": false },
+      { "answer": "<tab>", "isCorrect": false }
     ]
   },
   {
     "id": 15,
-    "question": "Tag HTML untuk membuat heading paling besar adalah?",
+    "question": "Properti CSS untuk membuat teks menjadi tebal adalah?",
     "options": [
-      { "answer": "<h1>", "isCorrect": true },
-      { "answer": "<h6>", "isCorrect": false },
-      { "answer": "<head>", "isCorrect": false },
-      { "answer": "<header>", "isCorrect": false }
+      { "answer": "font-weight", "isCorrect": true },
+      { "answer": "font-style", "isCorrect": false },
+      { "answer": "text-decoration", "isCorrect": false },
+      { "answer": "bold", "isCorrect": false }
     ]
   },
   {
     "id": 16,
-    "question": "Untuk mengulang array dalam PHP, kita menggunakan?",
+    "question": "Di PHP, fungsi manakah yang digunakan untuk menghitung jumlah elemen dalam array?",
     "options": [
-      { "answer": "loop", "isCorrect": false },
-      { "answer": "repeat", "isCorrect": false },
-      { "answer": "foreach", "isCorrect": true },
-      { "answer": "cycle", "isCorrect": false }
+      { "answer": "count()", "isCorrect": true },
+      { "answer": "size()", "isCorrect": false },
+      { "answer": "length()", "isCorrect": false },
+      { "answer": "sizeof()", "isCorrect": false }
     ]
   },
   {
     "id": 17,
-    "question": "Operator logika untuk 'dan' dalam PHP adalah?",
+    "question": "Struktur data apakah yang cocok untuk implementasi antrian printer?",
     "options": [
-      { "answer": "&&", "isCorrect": true },
-      { "answer": "||", "isCorrect": false },
-      { "answer": "&", "isCorrect": false },
-      { "answer": "AND", "isCorrect": false }
+      { "answer": "Stack", "isCorrect": false },
+      { "answer": "Queue", "isCorrect": true },
+      { "answer": "Array", "isCorrect": false },
+      { "answer": "Tree", "isCorrect": false }
     ]
   },
   {
     "id": 18,
-    "question": "HTML merupakan singkatan dari?",
+    "question": "Tipe data array di PHP dapat menyimpan?",
     "options": [
-      { "answer": "HyperText Markup Language", "isCorrect": true },
-      { "answer": "HyperText Manual Language", "isCorrect": false },
-      { "answer": "Hyper Tool Markup Language", "isCorrect": false },
-      { "answer": "HighText Markup Language", "isCorrect": false }
+      { "answer": "Hanya angka", "isCorrect": false },
+      { "answer": "Hanya string", "isCorrect": false },
+      { "answer": "Berbagai tipe data", "isCorrect": true },
+      { "answer": "Hanya boolean", "isCorrect": false }
     ]
   },
   {
     "id": 19,
-    "question": "CSS digunakan untuk?",
+    "question": "Tag HTML untuk membuat daftar bernomor adalah?",
     "options": [
-      { "answer": "Struktur halaman", "isCorrect": false },
-      { "answer": "Desain dan tampilan halaman", "isCorrect": true },
-      { "answer": "Logika program", "isCorrect": false },
-      { "answer": "Database query", "isCorrect": false }
+      { "answer": "<ul>", "isCorrect": false },
+      { "answer": "<li>", "isCorrect": false },
+      { "answer": "<ol>", "isCorrect": true },
+      { "answer": "<dl>", "isCorrect": false }
     ]
   },
   {
     "id": 20,
-    "question": "Fungsi `isset()` di PHP digunakan untuk?",
+    "question": "Properti CSS untuk memberi garis bawah pada teks adalah?",
     "options": [
-      { "answer": "Menentukan apakah variabel memiliki nilai", "isCorrect": true },
-      { "answer": "Menampilkan nilai variabel", "isCorrect": false },
-      { "answer": "Membuat variabel baru", "isCorrect": false },
-      { "answer": "Menghapus variabel", "isCorrect": false }
+      { "answer": "text-style", "isCorrect": false },
+      { "answer": "text-decoration", "isCorrect": true },
+      { "answer": "font-underline", "isCorrect": false },
+      { "answer": "line-style", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Tipe data manakah yang digunakan untuk menyimpan angka bulat di PHP?",
+    "options": [
+      { "answer": "Integer", "isCorrect": true },
+      { "answer": "Float", "isCorrect": false },
+      { "answer": "Boolean", "isCorrect": false },
+      { "answer": "String", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Struktur data apakah yang digunakan untuk pencarian cepat berdasarkan key?",
+    "options": [
+      { "answer": "Array", "isCorrect": false },
+      { "answer": "Hash Table", "isCorrect": true },
+      { "answer": "Stack", "isCorrect": false },
+      { "answer": "Queue", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Tag HTML yang digunakan untuk membuat form input teks adalah?",
+    "options": [
+      { "answer": "<input type='text'>", "isCorrect": true },
+      { "answer": "<textbox>", "isCorrect": false },
+      { "answer": "<form-text>", "isCorrect": false },
+      { "answer": "<textfield>", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Properti CSS untuk mengatur ukuran huruf adalah?",
+    "options": [
+      { "answer": "font-size", "isCorrect": true },
+      { "answer": "text-size", "isCorrect": false },
+      { "answer": "size", "isCorrect": false },
+      { "answer": "font-weight", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Di PHP, fungsi manakah yang digunakan untuk mengubah string menjadi huruf kecil semua?",
+    "options": [
+      { "answer": "strtolower()", "isCorrect": true },
+      { "answer": "strtoupper()", "isCorrect": false },
+      { "answer": "ucfirst()", "isCorrect": false },
+      { "answer": "lcfirst()", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Perintah Git untuk membuat repository baru di folder lokal adalah?",
+    "options": [
+      { "answer": "git start", "isCorrect": false },
+      { "answer": "git init", "isCorrect": true },
+      { "answer": "git create", "isCorrect": false },
+      { "answer": "git new", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Perintah Git untuk menambahkan file ke staging area adalah?",
+    "options": [
+      { "answer": "git stage <file>", "isCorrect": false },
+      { "answer": "git add <file>", "isCorrect": true },
+      { "answer": "git push <file>", "isCorrect": false },
+      { "answer": "git commit <file>", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Perintah Git untuk melihat riwayat commit adalah?",
+    "options": [
+      { "answer": "git status", "isCorrect": false },
+      { "answer": "git log", "isCorrect": true },
+      { "answer": "git history", "isCorrect": false },
+      { "answer": "git commit -m", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Perintah Git untuk mengunduh perubahan terbaru dari remote repository tanpa merge otomatis adalah?",
+    "options": [
+      { "answer": "git pull", "isCorrect": false },
+      { "answer": "git fetch", "isCorrect": true },
+      { "answer": "git clone", "isCorrect": false },
+      { "answer": "git push", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Perintah Git untuk membuat branch baru adalah?",
+    "options": [
+      { "answer": "git branch <nama_branch>", "isCorrect": true },
+      { "answer": "git checkout <nama_branch>", "isCorrect": false },
+      { "answer": "git switch <nama_branch>", "isCorrect": false },
+      { "answer": "git new-branch <nama_branch>", "isCorrect": false }
     ]
   }
 ]
