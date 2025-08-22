@@ -7,7 +7,7 @@
           <img src="../assets/img/icon6.png" alt="icon" />
         </div>
         <div class="landingPage-text">
-          <h1>QUIZ LARAVEL</h1>
+          <h1>QUIZ HTML, CSS, GIT, TIPE DATA, STRUKTUR DATA</h1>
           <p>
             Anda disajikan dengan pertanyaan dan empat pilihan, Anda memiliki waktu 30 detik untuk menjawab setiap pertanyaan setelah itu Anda akan secara otomatis dipindahkan ke pertanyaan berikutnya. Kegagalan memilih jawaban dalam batas waktu akan mengakibatkan hilangnya poin. Di akhir kuis, skor total Anda akan ditampilkan. Semoga beruntung!!
           </p>
