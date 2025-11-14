@@ -99,9 +99,6 @@
       { "answer": "git write", "isCorrect": false }
     ]
   },
-
-  // Tambahan 5 soal
-
   {
     "id": 11,
     "question": "Apa itu text editor?",
